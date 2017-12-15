@@ -1,7 +1,7 @@
 {
-  "name": "charcoal.db",
+  "name": "gendry.db",
   "version": "1.0.0",
-  "description": "database schema for charcoal",
+  "description": "database schema for gendry",
   "scripts": {
     "up": "knex migrate:latest",
     "down": "knex migrate:rollback",
